@@ -6,7 +6,7 @@
 
     <title>@yield('title', 'UMKM Kita')</title>
 
-    <link rel="stylesheet" href="{{ asset('css/stylehome.css') }}">
+    @vite(['resources/css/stylehome.css', 'resources/js/app.js'])
 </head>
 <body>
 
