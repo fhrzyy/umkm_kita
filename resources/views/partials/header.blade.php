@@ -80,7 +80,7 @@
             </li>
 
             <li>
-                <a href="#">Toko</a>
+                <a href="#">Produk</a>
             </li>
 
             <li class="dropdown">
@@ -89,26 +89,15 @@
                     <i class="fa fa-caret-down"></i>
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a href="#">Alat Tulis</a></li>
-                    <li><a href="#">Tinta</a></li>
-                    <li><a href="#">Komputer</a></li>
-                    <li><a href="#">Berkas</a></li>
-                </ul>
-            </li>
-
-            <li class="dropdown">
-                <a href="#">
-                    Perusahaan
-                    <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="dropdown-menu">
-                    <li><a href="#">Tentang Kami</a></li>
-                    <li><a href="#">Visi dan Misi</a></li>
+                    <li><a href="#">Makanan</a></li>
+                    <li><a href="#">Oleh - oleh khas jember</a></li>
+                    <li><a href="#">Pakaian</a></li>
+                    <li><a href="#">Minuman</a></li>
                 </ul>
             </li>
 
             <li>
-                <a href="#">Kontak</a>
+                <a href="#">Lainnya</a>
             </li>
 
         </ul>
