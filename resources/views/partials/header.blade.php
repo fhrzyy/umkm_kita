@@ -26,8 +26,8 @@
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="{{ url('/') }}" class="logo">
                     <img
-                        src="{{ asset('assets/user/img/logotoko.png') }}"
-                        alt="Logo Toko"
+                        src="{{ asset('../assets/user/img/umkm.png') }}"
+                        alt="Logo UMKM"
                         class="img-responsive">
                 </a>
             </div>
@@ -80,7 +80,7 @@
             </li>
 
             <li>
-                <a href="#">Toko</a>
+                <a href="#">Produk</a>
             </li>
 
             <li class="dropdown">
@@ -98,17 +98,13 @@
 
             <li class="dropdown">
                 <a href="#">
-                    Perusahaan
+                    Lainnya
                     <i class="fa fa-caret-down"></i>
                 </a>
                 <ul class="dropdown-menu">
                     <li><a href="#">Tentang Kami</a></li>
                     <li><a href="#">Visi dan Misi</a></li>
                 </ul>
-            </li>
-
-            <li>
-                <a href="#">Kontak</a>
             </li>
 
         </ul>

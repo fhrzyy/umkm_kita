@@ -21,11 +21,11 @@
             <div class="footer-column">
                 <h3>KATEGORI</h3>
                 <ul>
-                    <li><a href="#">Alat Tulis</a></li>
-                    <li><a href="#">Tinta</a></li>
-                    <li><a href="#">Komputer & Otomatisasi Kantor</a></li>
-                    <li><a href="#">Berkas</a></li>
-                    <li><a href="#">Furnitur</a></li>
+                    <li><a href="#">Makanan</a></li>
+                    <li><a href="#">Oleh-oleh khas jember</a></li>
+                    <li><a href="#">Fashion</a></li>
+                    <li><a href="#">Furnicraft</a></li>
+                    <li><a href="#">Outlet Beranda</a></li>
                 </ul>
             </div>
 
