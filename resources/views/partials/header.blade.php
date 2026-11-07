@@ -26,8 +26,8 @@
             <div class="col-md-2 col-sm-3 col-xs-4">
                 <a href="{{ url('/') }}" class="logo">
                     <img
-                        src="{{ asset('assets/user/img/logotoko.png') }}"
-                        alt="Logo Toko"
+                        src="{{ asset('../assets/user/img/umkm.png') }}"
+                        alt="Logo UMKM"
                         class="img-responsive">
                 </a>
             </div>
@@ -89,6 +89,7 @@
                     <i class="fa fa-caret-down"></i>
                 </a>
                 <ul class="dropdown-menu">
+<<<<<<< HEAD
                     <li><a href="#">Makanan</a></li>
                     <li><a href="#">Oleh - oleh khas jember</a></li>
                     <li><a href="#">Pakaian</a></li>
@@ -100,6 +101,26 @@
                 <a href="#">Lainnya</a>
             </li>
 
+=======
+                    <li><a href="#">Alat Tulis</a></li>
+                    <li><a href="#">Tinta</a></li>
+                    <li><a href="#">Komputer</a></li>
+                    <li><a href="#">Berkas</a></li>
+                </ul>
+            </li>
+
+            <li class="dropdown">
+                <a href="#">
+                    Lainnya
+                    <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Tentang Kami</a></li>
+                    <li><a href="#">Visi dan Misi</a></li>
+                </ul>
+            </li>
+
+>>>>>>> 019522b8dd78f8af9dc5d25ecd884a71371b4d89
         </ul>
     </div>
 </nav>
